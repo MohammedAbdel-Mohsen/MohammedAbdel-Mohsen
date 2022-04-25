@@ -28,7 +28,7 @@
 
 <summary><b><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> GitHub Profile Stats</b></summary>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=username=mohammedabdel-mohsen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedabdel-mohsen)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center" dir="auto">
     <a href="https://github-readme-stats.vercel.app/api?username=mohammedabdel-mohsen"><img alt="Mohammed Elnwam's Github Stats" src="https://camo.githubusercontent.com/ef05236aec2bab7294d89dbab753b45178feffab2d265f0ea3cc0f8fd78f655d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d616e617273686168696e34382673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d616c676f6c6961" height="192px" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mohammedabdel-mohsen&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" style="max-width: 100%;"></a>
 <br>
