@@ -33,7 +33,7 @@
     <a href="https://github-readme-stats.vercel.app/api?username=mohammedabdel-mohsen"><img alt="Mohammed Elnwam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammedabdel-mohsen&show_icons=true&locale=en&theme=radical" height="192px" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mohammedabdel-mohsen&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" style="max-width: 100%;"></a>
 <br>
   &nbsp;
-	  <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedabdel-mohsen&show_icons=true&locale=en&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedabdel-mohsen&show_icons=true&locale=en&layout=compact" alt="Mohammed Elnwam" height="192px" style="max-width: 100%;"></a>
+	  <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedabdel-mohsen&show_icons=true&locale=en&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedabdel-mohsen&show_icons=true&locale=en&layout=radical" alt="Mohammed Elnwam" height="192px" style="max-width: 100%;"></a>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
